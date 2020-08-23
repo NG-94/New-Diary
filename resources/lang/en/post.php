@@ -12,5 +12,6 @@ return [
     'Delete' => 'Delete',
     'Change Post' => 'Change your post',
     'Update' => 'Update',
-    'Updated' => 'Updated'
+    'Updated' => 'Updated',
+    'No Posts Found' => 'No posts found for this user.'
 ];

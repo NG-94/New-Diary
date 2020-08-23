@@ -12,6 +12,6 @@ return [
     'Delete' => 'Ta bort',
     'Change Post' => 'Ändra ditt inlägg',
     'Update' => 'Uppdatera',
-    'Updated' => 'Uppdaterad'
-    
+    'Updated' => 'Uppdaterad',
+    'No Posts Found' => 'Inga inlägg hittades för denna användare.'
 ];
